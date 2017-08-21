@@ -63,6 +63,9 @@ These json documents are all lists of objects. Each object is a single item on t
    - String
    - Name of the svg to deisplay in the upper right.
    - The svgs for these icons are already provided in the artwork/svgs folder.
+* time
+   - Integer
+   - Number of seconds that should be used to generate the timestamp that goes on the far left.
 * evaluation
    - text
       - String
