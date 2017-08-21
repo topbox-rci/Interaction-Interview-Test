@@ -10,8 +10,8 @@ const server = {
     },
 
     startWebServer() {
-        server.app.listen(8001);
-        console.log('Listening on port 8001');
+        server.app.listen(8077);
+        console.log('Listening on port 8077');
     },
 
     urlConfs() {
