@@ -86,4 +86,4 @@ These json documents are all lists of objects. Each object is a single item on t
 
 ## Submission
 
-Please make a pull request to submit this test; note the request will not be accepted but we will use this request to review the work.
+Please feel to clone this repo; and share your own git project with us when you are ready.
