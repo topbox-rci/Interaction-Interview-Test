@@ -86,4 +86,4 @@ These json documents are all lists of objects. Each object is a single item on t
 
 ## Submission
 
-Please feel to clone this repo; and share your own git project with us when you are ready.
+Please clone this repo; using it to share your own git project with us when you are ready.
