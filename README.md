@@ -16,7 +16,7 @@ The font used in the Photoshop doc as well as the font desired for the end resul
 
 ## Data
 
-You can find json documents for populating your page at https://s3.amazonaws.com/topbox-frontend-project/data1.json. There is also a data2.json file in that folder, but data1.json corresponds to the design provided in the artwork folder of this repo. You can download these objects and serve them locally or you can consume them from S3.
+You can find the json document for populating your page at `data/data1.json`. This data corresponds to the design provided in the artwork folder of this repo.
 
 ### Schema
 These json documents are all lists of objects. Each object is a single item on the timeline. Each objects has a
